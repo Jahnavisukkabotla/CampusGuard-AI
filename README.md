@@ -101,6 +101,7 @@ jahnavi2108@gmail.com
 ### Email Analysis
 
 <img width="692" height="516" alt="Screenshot 2026-08-03 082655" src="https://github.com/user-attachments/assets/5060d65c-f95b-47f1-8f5d-dbe1feca5ddf" />
+
 <img width="832" height="597" alt="Screenshot 2026-08-03 083746" src="https://github.com/user-attachments/assets/77871348-fbfb-46ed-8f23-f6da918dd12e" />
 
 
