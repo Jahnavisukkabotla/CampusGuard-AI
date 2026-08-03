@@ -10,6 +10,20 @@ function AnalyzeEmail() {
 
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
+  const getStatusIcon = () => {
+  if (!result) return "";
+
+  switch (result.status) {
+    case "SAFE":
+      return "✅";
+    case "SUSPICIOUS":
+      return "⚠️";
+    case "PHISHING":
+      return "🚨";
+    default:
+      return "📧";
+  }
+};
 
   const analyzeEmail = async (e) => {
   e.preventDefault();

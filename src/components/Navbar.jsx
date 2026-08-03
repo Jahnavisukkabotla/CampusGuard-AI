@@ -25,8 +25,8 @@ function Navbar() {
 <div className="container-fluid">
 
 <Link className="navbar-brand brand" to="/dashboard">
-<FaShieldAlt />
-CampusGuard AI
+<><FaShieldAlt />
+<span>CampusGuard AI</span></>
 </Link>
 
 <div className="navbar-nav ms-auto align-items-center">
