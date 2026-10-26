@@ -209,7 +209,7 @@ function Dashboard() {
       <div className="page-container">
         <div className="container py-5">
 
-          {/* Hero */}
+       
           <div className="text-center mb-5">
             <h1 className="dashboard-title">
               🛡️ CampusGuard AI
@@ -227,7 +227,7 @@ function Dashboard() {
             </Link>
           </div>
 
-          {/* Stats */}
+      
           <div className="row g-4">
 
             <div className="col-lg-3 col-md-6">
